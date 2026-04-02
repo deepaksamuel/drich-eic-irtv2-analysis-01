@@ -1,6 +1,9 @@
 # EIC-DRICH PID analysis using IRTv2
 - Analysis done by: 
     - Deepak Samuel, Christy Elsa Koshy and Meghna Majumdar, Central University of Karnataka
+    - Preview the summary plots online at one of these pages:
+        -   [Preview 1](https://deepaksamuel.github.io/eic/irtv2_interactive_1k.html)
+        -   [Preview 2](https://htmlpreview.github.io/?https://github.com/deepaksamuel/drich-eic-irtv2-analysis-01/blob/main/irtv2_interactive_1k.html) 
 - EIC Version and details:  
     - ```./eic-shell -v 25.10.0-stable```
     - ```. EICrecon/irt-sandbox/environ.sh```
