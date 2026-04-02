@@ -59,3 +59,7 @@
 - The reco files are about 77 GB and so cannot be hosted online. 
 
 - The analyze-reco.ipynb files reads the reco files and creates a csv file which contains the Cerenkov angles from the fit and the associated errors.
+
+- 02 April 2026:
+    - The reconstruction analysis skipped rows where the gas or aero histograms were not present which led to confusions. 
+    - The updated file is in ```1k_fit_parameters_new.csv``` and the plots are in ```irtv2_interactive_1k_new.html```
